@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b33a4896bd981a75",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Formatting/Task.md",
-            "mode": "preview",
-            "source": true
+        "id": "1fb97e828006e7c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b56ba83ae92ed6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Format your notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -31,7 +37,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -61,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cc02b4fca4449bfe",
@@ -77,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formatting/Task.md",
+                "file": "Format your notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formatting/Task.md",
+                "file": "Format your notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formatting/Task.md"
+                "file": "Format your notes.md"
               }
             }
           },
@@ -134,20 +143,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "b33a4896bd981a75",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "f18c3e89a9a37993",
   "lastOpenFiles": [
-    "Format your notes.md",
     "Formatting/Task.md",
-    "Formatting/Code block.md",
-    "Formatting/Table.md",
-    "Formatting/styles.md",
-    "Formatting/Lists.md",
-    "Formatting/Footnote.md",
+    "Format your notes.md",
+    "Formatting/Heading.md",
     "Formatting/Blockquote.md",
-    "01 Formating.md",
-    "Formatting/Strikethrough.md"
+    "Formatting/Diagram.md",
+    "Formatting/Comment.md",
+    "Formatting/Code block.md",
+    "Formatting/Callout.md",
+    "Formatting/Lists.md",
+    "Formatting/Table.md"
   ]
 }

@@ -1,0 +1,26 @@
+body {
+/*interface*/
+	--header-height: 35px;
+
+/* inline */
+	--inline-title-color: #D1D2F9;
+	    --inline-title-size: 2em;
+	
+/* content */
+	--h1-size: 1.5em;
+	--h2-size: 1.3em;
+	--h3-size: 1.2em;
+	--h4-size: 1.1em;
+	--h5-size: 1.0em;
+	--h6-size: 1.0em;
+	--h1-color: #FF7AC6;
+    --h2-color: #7F9DFF;
+    --h3-color: #74F496;
+    --h4-color: #FFB86B;
+    --h6-color: #8AE9FE;
+    --h5-color: #C5E379;
+}
+.theme-dark {
+	--color-base-30: #262626;
+}
+.workspace-tab-header-container-inner { margin: 3px -5px calc(var(--tab-outline-width) * -1);}

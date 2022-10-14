@@ -1,3 +1,3 @@
 - [x] #tags, [links](), **formatting** supported
-- [?] this is also a complete item (works with every character)
-- [!] this is an incomplete item
+- [!] this is also a complete item (works with every character)
+- [?] this is an incomplete item

@@ -1,3 +1,14 @@
 {
-  "cssTheme": "Yin and Yang"
+  "cssTheme": "",
+  "baseFontSizeAction": true,
+  "baseFontSize": 16,
+  "translucency": false,
+  "accentColor": "#9f84f5",
+  "theme": "obsidian",
+  "showViewHeader": false,
+  "nativeMenus": false,
+  "interfaceFontFamily": "Iosevka",
+  "enabledCssSnippets": [
+    "xtest"
+  ]
 }
